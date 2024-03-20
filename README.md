@@ -1,4 +1,4 @@
-# KUMedPortfolio
+# KU Medical Center Portfolio
 Hello! I'm Breck Emert, a data science and machine learning enthusiast currently completing my Master's in Applied Statistics at KU Med.  I'm concurrently researching and completing deficit work for my Ph.D. in Computational Neuroscience at KU's Brain, Behavior and Quantitative Science program.  
 
 This repository showcases my portfolio of advanced projects and analyses completed during my Master's in Applied Statistics and Data Science at KU Med. These projects demonstrate my proficiency in advance statistics, modeling, and data science.
