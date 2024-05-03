@@ -14,6 +14,11 @@ This repository showcases my portfolio of advanced projects and analyses complet
 
 Below are some of the projects I've completed during my studies.
 
+### Brain-Inspired Temporal Attention in Transformers
+
+**In Progress**
+This paper proposes a novel and interpretable attention mechanism which reduces the computational load of attention.  It is inspired by neuroscience and is accompanied by an extensive review of supporting literature.  I am currently performing extensive testing of its performance and interpretability.
+
 ### [A Statistical Examination of Factors Impacting Market Share in the Packaged Foods Industry](https://github.com/BreckEmert/KUMedPortfolio/blob/main/Emert%20823%20Analysis.pdf)
 
 This collaborative project was completed for my Statistical Programming in R course.  Our team aimed  for this study to determine the factors that influence market share for an individual project offered by a large packaged goods manufacturer.  We used regression modeling to pick an actionable model and make recommendations for the companies' course of action.
