@@ -15,7 +15,7 @@ This repository showcases my portfolio of advanced projects and analyses complet
 Below are some of the projects I've completed during my studies.  
 
 ### Categorical Analysis  
-[Logistic Regression Model for Predicting Brain Tumor Malignance](https://github.com/BreckEmert/KUMedPortfolio/blob/main/Emert%Categorical%20Analysis.pdf)
+[Logistic Regression Model for Predicting Brain Tumor Malignance](https://github.com/BreckEmert/KUMedPortfolio/blob/main/Emert%20Categorical%20Analysis.pdf)
 
 This analysis was completed for my Categorical Analysis course taken in my second semester.  The project involved developing a logistic regression model to predict the malignancy of brain tumors (glioblastoma or lower-grade glioma) using data from 857 patients. My key findings include a final model incorporating four significant gene mutations (IDH1, IDH2, TP53, PIK3R1) with a strong predictive power (AUC = 0.90). This study highlights a strong use-case of logistic regression in medical diagnostics and suggests further research into using genetic profiling for early-stage diagnosis.
 
