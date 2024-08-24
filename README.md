@@ -1,14 +1,13 @@
 # KU Medical Center Portfolio
 Hello! I'm Breck Emert, a data science and machine learning student currently completing my Master's in Applied Statistics at KU Med.  I'm concurrently researching with the department of biostatistics as the leader of the KU Med AI Research Group, as well as with KU's Brain, Behavior and Quantitative Science program.
 
-This repository showcases my portfolio of advanced projects and analyses completed during my Master's in Applied Statistics and Data Science at KU Med. These projects demonstrate my proficiency in advanced statistics, modeling, and data science.
+This repository showcases my portfolio of advanced projects and analyses completed during my Master's, and demonstrate my proficiency in advanced statistics, modeling, and data science.
 
 ## Skills Highlighted Here:
 
-- Machine Learning
 - Data Analysis
-- Computational Neuroscience
-- Programming Languages: Python, R, SAS
+- Machine Learning
+- Programming Languages: Python, R, SAS, JMP
 
 ## Projects
 
@@ -40,4 +39,4 @@ This paper proposes a novel and interpretable attention mechanism which reduces 
 
 ## Contact
 
-Please connect with me on [LinkedIn](https://www.linkedin.com/in/breckemert/) or send me an email at breck_emert@yahoo.com.
+Please connect with me on [LinkedIn](https://www.linkedin.com/in/breckemert/) or send me an email at breckemert@gmail.com.
